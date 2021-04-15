@@ -1,0 +1,13 @@
+---
+schema: default
+title: Sample dataset with edits
+organization: Not a real dataset
+notes: This is an example dataset that I am trying
+resources:
+  - name: CSV Example
+    url: 'https://filesamples.com/samples/document/csv/sample4.csv'
+    format: csv
+license: ''
+maintainer: Robert Jordan
+maintainer_email: ''
+---
