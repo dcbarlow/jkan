@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Sample dataset
-organization: Sample Department
+title: Sample dataset with edits
+organization: Not a real dataset
 notes: This is an example dataset that comes with a new installation of JKAN
 resources:
   - name: Air Monitoring Stations CSV
