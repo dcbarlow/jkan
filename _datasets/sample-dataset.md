@@ -13,6 +13,7 @@ resources:
   - name: Add another 
     url: 'https://techcrunch.com/'
     format: api
+license: ''
 maintainer: Robert Jordan
 maintainer_email: dbarlow@compassred.com
 ---
