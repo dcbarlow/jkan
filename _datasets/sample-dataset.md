@@ -1,21 +1,19 @@
 ---
 schema: default
-title: Sample dataset with edits
-organization: Not a real dataset
-notes: This is an example dataset that comes with a new installation of JKAN
+title: Housing Insecurity in Delaware
+organization: Delaware Data Innovation Lab
+notes: This is an example that will live on the lab JKAN
 resources:
-  - name: Air Monitoring Stations CSV
+  - name: Test First
     url: 'https://www.nytimes.com/'
     format: csv
-  - name: Air Monitoring Stations Shapefile
+  - name: Test this
     url: 'https://www.washingtonpost.com/'
     format: shp
-  - name: Air Monitoring Stations GeoService
+  - name: Add another 
     url: 'https://techcrunch.com/'
     format: api
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
-category:
-  - Education
-maintainer: Tim Wisniewski
-maintainer_email: tim@timwis.com
+maintainer: Robert Jordan
+maintainer_email: dbarlow@compassred.com
 ---
