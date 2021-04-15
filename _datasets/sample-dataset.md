@@ -13,7 +13,6 @@ resources:
   - name: Add another 
     url: 'https://techcrunch.com/'
     format: api
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Robert Jordan
 maintainer_email: dbarlow@compassred.com
 ---
